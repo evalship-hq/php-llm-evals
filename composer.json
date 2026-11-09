@@ -1,0 +1,22 @@
+{
+    "name": "evalship-hq/php-llm-evals",
+    "description": "A PHP support bot whose AI call is tested on every pull request with tinyeval.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.1",
+        "anthropic-ai/sdk": "^1.6",
+        "guzzlehttp/guzzle": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": false
+        },
+        "sort-packages": true
+    }
+}
