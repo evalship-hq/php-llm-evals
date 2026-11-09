@@ -14,9 +14,9 @@ export ANTHROPIC_API_KEY=sk-ant-...
 
 ```
 support
-  ✓ refund after the window 1.3s
-  ✓ missing package 1.2s
-  ✓ refund inside the window 1.3s
+  ✓ refund after the window 5.9s
+  ✓ missing package 4.5s
+  ✓ refund inside the window 4.7s
 
 All 3 evals passed (eval-results.json)
 ```
