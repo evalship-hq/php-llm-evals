@@ -18,5 +18,8 @@
             "php-http/discovery": false
         },
         "sort-packages": true
+    },
+    "require-dev": {
+        "evalship/tinyeval": "^0.11.0"
     }
 }

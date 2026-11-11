@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2d0d16435a4dede3bb9d90fff8305869",
+    "content-hash": "e052f66a3b5135875fe596856c752800",
     "packages": [
         {
             "name": "anthropic-ai/sdk",
@@ -1086,7 +1086,47 @@
             "published-time": "2026-09-30T10:23:35+00:00"
         }
     ],
-    "packages-dev": [],
+    "packages-dev": [
+        {
+            "name": "evalship/tinyeval",
+            "version": "v0.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/evalship-hq/tinyeval-php.git",
+                "reference": "3249bea5592bef58b3741b2ab0f804b80e75cc37"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/evalship-hq/tinyeval-php/zipball/3249bea5592bef58b3741b2ab0f804b80e75cc37",
+                "reference": "3249bea5592bef58b3741b2ab0f804b80e75cc37",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1"
+            },
+            "bin": [
+                "bin/tinyeval"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Tinyeval\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Evals for the AI calls in your PHP or Laravel app, run by one bash file",
+            "homepage": "https://tinyeval.com",
+            "support": {
+                "issues": "https://github.com/evalship-hq/tinyeval/issues",
+                "source": "https://github.com/evalship-hq/tinyeval/tree/main/packages/php"
+            },
+            "time": "2026-11-11T10:24:01+00:00",
+            "published-time": "2026-11-11T10:35:48+00:00"
+        }
+    ],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {},

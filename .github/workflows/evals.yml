@@ -22,7 +22,7 @@ jobs:
           key: ${{ runner.os }}-composer-${{ hashFiles('composer.lock') }}
           restore-keys: ${{ runner.os }}-composer-
       - run: composer install --no-interaction --no-progress
-      - run: ./tinyeval -n 3
+      - run: vendor/bin/tinyeval -n 3
         if: env.ANTHROPIC_API_KEY != ''
       - run: echo "::notice::Evals skipped. Add the ANTHROPIC_API_KEY repository secret to run them."
         if: env.ANTHROPIC_API_KEY == ''
