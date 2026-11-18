@@ -69,8 +69,7 @@
                 "issues": "https://github.com/anthropics/anthropic-sdk-php/issues",
                 "source": "https://github.com/anthropics/anthropic-sdk-php/tree/v1.6.0"
             },
-            "time": "2026-11-05T18:59:06+00:00",
-            "published-time": "2026-11-05T19:00:59+00:00"
+            "time": "2026-11-05T18:59:06+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -198,8 +197,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T21:35:21+00:00",
-            "published-time": "2026-10-25T21:37:23+00:00"
+            "time": "2026-10-25T21:35:21+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -283,8 +281,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-18T12:46:59+00:00",
-            "published-time": "2026-10-18T12:47:39+00:00"
+            "time": "2026-10-18T12:46:59+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -403,8 +400,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-17T23:49:46+00:00",
-            "published-time": "2026-10-17T23:51:00+00:00"
+            "time": "2026-10-17T23:49:46+00:00"
         },
         {
             "name": "open-telemetry/api",
@@ -481,8 +477,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2026-11-05T11:54:49+00:00",
-            "published-time": "2026-11-05T12:00:54+00:00"
+            "time": "2026-11-05T11:54:49+00:00"
         },
         {
             "name": "open-telemetry/context",
@@ -540,8 +535,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2026-11-05T11:54:49+00:00",
-            "published-time": "2026-11-05T12:00:45+00:00"
+            "time": "2026-11-05T11:54:49+00:00"
         },
         {
             "name": "php-http/discovery",
@@ -620,8 +614,7 @@
                 "issues": "https://github.com/php-http/discovery/issues",
                 "source": "https://github.com/php-http/discovery/tree/1.20.0"
             },
-            "time": "2024-10-02T11:20:13+00:00",
-            "published-time": "2024-10-02T11:21:00+00:00"
+            "time": "2024-10-02T11:20:13+00:00"
         },
         {
             "name": "psr/http-client",
@@ -673,8 +666,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-client"
             },
-            "time": "2023-09-23T14:17:50+00:00",
-            "published-time": "2023-09-23T14:18:12+00:00"
+            "time": "2023-09-23T14:17:50+00:00"
         },
         {
             "name": "psr/http-factory",
@@ -729,8 +721,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-factory"
             },
-            "time": "2024-04-15T12:06:14+00:00",
-            "published-time": "2024-05-10T07:32:19+00:00"
+            "time": "2024-04-15T12:06:14+00:00"
         },
         {
             "name": "psr/http-message",
@@ -783,8 +774,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-message/tree/2.0"
             },
-            "time": "2023-04-04T09:54:51+00:00",
-            "published-time": "2023-04-04T09:55:35+00:00"
+            "time": "2023-04-04T09:54:51+00:00"
         },
         {
             "name": "psr/log",
@@ -834,8 +824,7 @@
             "support": {
                 "source": "https://github.com/php-fig/log/tree/3.0.2"
             },
-            "time": "2024-09-11T13:17:53+00:00",
-            "published-time": "2024-09-11T13:21:14+00:00"
+            "time": "2024-09-11T13:17:53+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -879,8 +868,7 @@
                 "issues": "https://github.com/ralouphie/getallheaders/issues",
                 "source": "https://github.com/ralouphie/getallheaders/tree/develop"
             },
-            "time": "2019-03-08T08:55:37+00:00",
-            "published-time": "2019-03-08T09:01:32+00:00"
+            "time": "2019-03-08T08:55:37+00:00"
         },
         {
             "name": "standard-webhooks/standard-webhooks",
@@ -925,8 +913,7 @@
                 "issues": "https://github.com/standard-webhooks/standard-webhooks/issues",
                 "source": "https://github.com/standard-webhooks/standard-webhooks/tree/v1.0.2"
             },
-            "time": "2026-02-18T19:02:27+00:00",
-            "published-time": "2026-02-25T17:09:26+00:00"
+            "time": "2026-02-18T19:02:27+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -997,8 +984,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-16T14:15:10+00:00",
-            "published-time": "2026-11-04T11:25:34+00:00"
+            "time": "2026-09-16T14:15:10+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -1082,23 +1068,22 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:50:05+00:00",
-            "published-time": "2026-09-30T10:23:35+00:00"
+            "time": "2026-09-25T15:50:05+00:00"
         }
     ],
     "packages-dev": [
         {
             "name": "evalship/tinyeval",
-            "version": "v0.11.0",
+            "version": "v0.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/evalship-hq/tinyeval-php.git",
-                "reference": "3249bea5592bef58b3741b2ab0f804b80e75cc37"
+                "reference": "b4da51ff7cebd7dfd8ed510669b09fecf3d9fb34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/evalship-hq/tinyeval-php/zipball/3249bea5592bef58b3741b2ab0f804b80e75cc37",
-                "reference": "3249bea5592bef58b3741b2ab0f804b80e75cc37",
+                "url": "https://api.github.com/repos/evalship-hq/tinyeval-php/zipball/b4da51ff7cebd7dfd8ed510669b09fecf3d9fb34",
+                "reference": "b4da51ff7cebd7dfd8ed510669b09fecf3d9fb34",
                 "shasum": ""
             },
             "require": {
@@ -1123,8 +1108,7 @@
                 "issues": "https://github.com/evalship-hq/tinyeval/issues",
                 "source": "https://github.com/evalship-hq/tinyeval/tree/main/packages/php"
             },
-            "time": "2026-11-11T10:24:01+00:00",
-            "published-time": "2026-11-11T10:35:48+00:00"
+            "time": "2026-11-11T11:53:14+00:00"
         }
     ],
     "aliases": [],
@@ -1136,5 +1120,5 @@
         "php": "^8.1"
     },
     "platform-dev": {},
-    "plugin-api-version": "2.11.0"
+    "plugin-api-version": "2.9.0"
 }
